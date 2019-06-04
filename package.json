@@ -1,9 +1,9 @@
 {
-  "name": "khalis",
+  "name": "master",
   "version": "1.0.2",
   "main": "index.js",
-  "repository": "https://github.com/khalisafkari/khalis.git",
-  "author": "khalisafkari <khalis411@gmail.com>",
+  "repository": "https://github.com/digitalmediakta/digitalnode.git",
+  "author": "master",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon index.js"
