@@ -5,7 +5,7 @@ const Video = require('./apii')
 
 app.use(cors())
 
-app.get('/',async(req,res)=>{
+app.get('https://kokmungkin.blogspot.com/2019/05/op-07-480p.html',async(req,res)=>{
     if(!req.query.url){
         res.send({
             status:'error query ',
